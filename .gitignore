@@ -1,2 +1,3 @@
-# Raw files from clients/other sources stay local
-/WhatsApp-*
+# Raw files from clients/other sources stay local; only processed files in client folders are published
+/*.mp4
+/*.mov
